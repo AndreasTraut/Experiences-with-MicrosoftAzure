@@ -1,6 +1,6 @@
 Author: Andreas Traut  
 Date: 17.06.2020  
-[Download als PDF](https://github.com/AndreasTraut/Experiences-with-MicrosoftAzure/raw/master/README.pdf)  
+[Download als PDF](https://raw.githubusercontent.com/AndreasTraut/Experiences-with-MicrosoftAzure/main/README.pdf)  
 Please read also the "**Summary**" at the end of this documentation for knowing what I learnt.  
 
 # Microsoft Azure Portal for “Data Science”
